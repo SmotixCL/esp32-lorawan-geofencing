@@ -1,0 +1,36 @@
+# PlatformIO
+.pio/
+.vscode/
+.clang_complete
+.gcc-flags.json
+
+# Build artifacts
+*.bin
+*.hex
+*.elf
+*.map
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Environment files
+.env
+secrets.h
+
+# Temporary files
+tmp/
+temp/
